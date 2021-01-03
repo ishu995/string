@@ -1,0 +1,10 @@
+8 lines (8 sloc)  205 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s ="ishu";
+system.out.println(s.contains("is"));
+system.out.println(s.contains("hu"));
+system.out.println(s.contains("bts"));
+}
+}
